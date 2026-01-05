@@ -1,0 +1,4 @@
+Faça um algoritmo criando um vetor chamado cores com 5 posições.
+Em uma estrutura de repetição para peça ao usuário 5 cores.
+Crie uma variável chamada cor e em uma entrada de dados receba uma cor.
+Em outra estrutura de repetição para verefique se a cor existe no vetor  
